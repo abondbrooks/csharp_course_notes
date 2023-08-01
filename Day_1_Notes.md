@@ -166,7 +166,7 @@ Encapsulation is the concept of bundling data (attributes) and the methods (beha
 
 - It is one of the most essential components in the .net framework.
 
-- It is the enviorment where all the programs using .net technologies are executed.
+- It is the enviroment where all the programs using .net technologies are executed.
 
  **<center>Summary</center>**
 
