@@ -5,7 +5,7 @@ C# is an object oriented programming language.
 What is Object oriented programming?
 - It is one of the most powerful methodologies in software development.
 - It is used to create computer programs.
-- It can speed up the program development process, imporove maintenance, and reusability.
+- It can speed up the program development process, improve maintenance, and reusability.
 
 - An **object** is the main concept or core concept involved in object orientation.
 - An **object** is the representation of real world entities.
